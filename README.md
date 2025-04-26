@@ -1,4 +1,4 @@
-# Smart
+# School-Official-Website-Template
 Smart‘s Personal devise
 
 
